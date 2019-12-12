@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+aside {
+    background-color: gray;
+    display: flex;
+    height: 100vh;
+    width: 20%;
+}
+
+h1 {
+    color: deeppink;
+    font-size: 5em;
+    margin: 50px 25px 25px 25px;
+    text-align: center;
+    text-shadow: 4px 4px 4px black;
+}
