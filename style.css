@@ -53,3 +53,19 @@ h1 {
     min-width: 29%;
     overflow: scroll;
 }
+
+.card_items {
+    color: white;
+    font-size: 2em;
+    margin: auto;
+}
+
+form {
+    align-items: center;
+    background-color: #ff14937a;
+    border-radius: 2%;
+    box-shadow: 3px 3px 6px 3px #9e0c5bfa;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
