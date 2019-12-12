@@ -21,3 +21,18 @@ h1 {
     text-align: center;
     text-shadow: 4px 4px 4px black;
 }
+
+.form_section {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.section_text {
+    color: white;
+    font-size: 2.5em;
+    margin: 40px;
+    text-align: center;
+    text-shadow: 3px 3px 3px deeppink;
+}
